@@ -73,7 +73,7 @@ class Forca
 	}
 
 	/**
-	 * Printa o jogo, usando '_' no lugar de letras que n�o foram citadas ainda.
+	 * Printa o jogo, usando '_' no lugar de letras que nao foram citadas ainda.
 	 *
 	 * @return void
 	 */
